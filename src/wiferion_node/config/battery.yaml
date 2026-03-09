@@ -1,0 +1,7 @@
+wiferion_battery:
+  ros__parameters:
+
+    # CAN interface
+    can_interface: "can0"
+
+
